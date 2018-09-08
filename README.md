@@ -9,3 +9,5 @@ index.jsp a page that gets input from the user.
 ControllerServlet.java a servlet that acts as a controller.
 login-success.jsp and login-error.jsp files acts as view components.
 web.xml file for mapping the servlet.
+
+It's not working btw
